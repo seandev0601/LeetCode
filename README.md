@@ -15,4 +15,5 @@
 - ### [1502. Can Make Arithmetic Progression From Sequence](./Swift/Easy/1502.Can_Make_Arithmetic_Progression_From_Sequence.md)
 - ### [1672. Richest Customer Wealth](./Swift/Easy/1672.Richest_Customer_Wealth.md)
 - ### [1779. Find Nearest Point That Has the Same X or Y Coordinate](./Swift/Easy/1779.Find_Nearest_Point_That_as_the_Same_X_or_Y_Coordinate.md)
+- ### [1790. Check if One String Swap Can Make Strings Equal](./Swift/Easy/1790.Check_if_One_String_Swap_Can_Make_Strings_Equal.md)
 - ### [1822. Sign of the Product of an Array](./Swift/Easy/1822.Sign_of_the_Product_of_an_Array)
