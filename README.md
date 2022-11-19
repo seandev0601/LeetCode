@@ -6,6 +6,8 @@
 - ### [202. Happy Number](./Swift/Easy/202.Happy_Number.md)
 - ### [383. Ransom Note](./Swift/Easy/383.Ransom_Note.md)
 - ### [412. Fizz Buzz](./Swift/Easy/412.Fizz_Buzz.md)
+- ### [496. Next Greater Element I](./Swift/Easy/496.Next_Greater_Element_I.md)
+- ### [589. N-ary Tree Preorder Traversal](./Swift/Easy/589.N-ary_Tree_Preorder_Traversal.md)
 - ### [876. Middle of the Linked List](./Swift/Easy/876.Middle_of_the_Linked_List.md)
 - ### [976. Largest Perimeter Triangle](./Swift/Easy/976.Largest_Perimeter_Triangle.md)
 - ### [1281. Subtract the Product and Sum of Digits of an Integer](./Swift/Easy/1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.md)
